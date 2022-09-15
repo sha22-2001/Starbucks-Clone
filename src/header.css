@@ -1,0 +1,57 @@
+.Horizontal {
+  height: 10px;
+  background-color: rgba(0, 99, 65, 1);
+}
+.Menu_bar {
+  padding-left: 100px;
+  padding-right: 100px;
+  padding-top: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  background-color: #f7f7f7;
+}
+.Logo {
+  padding: 0 0 20px 0;
+}
+.Location {
+  color: rgba(0, 99, 65, 1);
+  display: flex;
+  top: 0;
+}
+.find {
+  align-items: center;
+  display: flex;
+  text-decoration: none;
+  color: black;
+}
+.Menu {
+  padding: 10px 80px;
+  background-color: #f7f7f7;
+}
+.Menu a {
+  position: static;
+  align-items: center;
+}
+.Menu .left {
+  padding: 10px 20px;
+  text-decoration: none;
+  color: black;
+}
+.Menu .right {
+  padding: 10px 20px;
+  text-decoration: none;
+  color: black;
+}
+.Menu .middle {
+  padding: 10px 20px;
+  text-decoration: none;
+  color: black;
+}
+.option {
+  padding: 10px 0px;
+}
+.option:hover {
+  background-color: black !important;
+  color: aliceblue;
+}
