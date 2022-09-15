@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Starbucks-Clone/static/css/main.6ea210d2.css",
+    "main.js": "/Starbucks-Clone/static/js/main.ad3b7a83.js",
+    "static/js/787.5137cd81.chunk.js": "/Starbucks-Clone/static/js/787.5137cd81.chunk.js",
+    "index.html": "/Starbucks-Clone/index.html",
+    "main.6ea210d2.css.map": "/Starbucks-Clone/static/css/main.6ea210d2.css.map",
+    "main.ad3b7a83.js.map": "/Starbucks-Clone/static/js/main.ad3b7a83.js.map",
+    "787.5137cd81.chunk.js.map": "/Starbucks-Clone/static/js/787.5137cd81.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ea210d2.css",
+    "static/js/main.ad3b7a83.js"
+  ]
+}
